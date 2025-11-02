@@ -412,7 +412,3 @@ tests/test_order_flows.py::test_order_cancellation PASSED (rerun 1)
 tests/test_order_flows.py::test_order_cancellation PASSED
 tests/test_order_flows.py::test_checkout_details_verification[x0] XFAIL
 tests/test_order_flows.py::test_checkout_details_verification[x1] XFAIL
-```
-
-#   F i n a l - A s s i g n m e n t _ P O M _ S a u c e D e m o _ p y t e s t . p y  
- 
